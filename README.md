@@ -13,6 +13,6 @@
    * Item 3b
   
 ![GitHub Logo}(/images/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](https://image.shutterstock.com/image-photo/mountains-under-mist-morning-amazing-260nw-1725825019.jpg)
  
  
